@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.co.ageas.Exercise2Test" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-10-02T10:45:50" hostname="Rajs-MBP-2.lan" time="0.025">
+  <properties/>
+  <testcase name="testCase1()" classname="uk.co.ageas.Exercise2Test" time="0.009"/>
+  <testcase name="testCase2()" classname="uk.co.ageas.Exercise2Test" time="0.002"/>
+  <testcase name="testCase3()" classname="uk.co.ageas.Exercise2Test" time="0.002"/>
+  <testcase name="testCase4()" classname="uk.co.ageas.Exercise2Test" time="0.003"/>
+  <testcase name="testCase5()" classname="uk.co.ageas.Exercise2Test" time="0.001"/>
+  <system-out><![CDATA[Input-->1111
+Input-->0101
+Input-->1101
+Input-->0001
+Input-->00-10
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
